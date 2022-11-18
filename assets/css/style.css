@@ -1,0 +1,268 @@
+
+div#block-page {
+    width: 100%;
+    margin: auto;
+}
+span{
+    color: #e6a84c;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+
+#image1 {
+    width: 50px;
+}
+#image2 {
+    width: 120px;
+}
+#logo {
+    display: flex;
+    margin: 20px;
+}
+
+#right{
+    padding: 30px;
+}
+
+#login{
+    font-weight: 500px;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+#btn1,#btn4{
+    padding: 9px;
+    background: #c77d0e;
+    border-radius: 8px;
+    color: white;
+}
+
+#p1{
+    margin-top: 130px;
+    margin-bottom: 20px;
+
+}
+
+#beema{
+    font-weight: 500px;
+    font-size: 30px;
+    line-height: 8px;
+    margin-top: 19px;
+    color: dodgerblue;
+}
+
+body, html{
+    font-family: 'Roboto';
+    font-style: normal;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    line-height: normal;
+}
+
+button{
+    border-radius: 8px;
+    border: 0;
+    cursor: pointer;
+}
+
+#titre-logo{
+font-weight: 900px;
+font-size: 46px;
+line-height: 61px;
+color: dodgerblue;
+}
+
+#background{
+    background: rgba(0,0,0,0.5) url('../images/pic2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+    color: white;
+    
+}
+
+.text{
+font-weight: 400;
+font-size: 33px;
+line-height: 30px;
+color: white;
+margin-top: 37px;
+}
+
+#btn2{
+    margin-top: 45px;
+    padding:9px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: 100px;
+    font-size: 20px;
+    line-height: 26px;
+    background: #aa6f16;
+    border: 0px;
+    color: white;
+
+}
+
+#btn3{
+    padding: 15px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    background: rgba(113, 113, 113, 0.48);
+    border-radius: 50%;
+    background-image:url('../images/iconBas.png');
+    background-size:11px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+#div1, #div2, #div3{
+    display: flex;
+    justify-content:space-around;
+    padding: 4px;
+    line-height: 47px;
+    /* identical to box height */
+    color: #262626;
+}
+
+h2{
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 47px;
+    /* identical to box height */
+    color: #262626;
+}
+
+#div2 > h2{
+    padding-top: 7%;
+    padding-right: 95px;
+    text-align: center;
+}
+
+p{
+line-height: 25px;
+text-align: center;
+font-size:large;
+
+color: #7A7A7A;
+}
+
+.titre{
+    margin-top: 80px;
+    margin-bottom: 100px;
+
+    font-weight: 700;
+font-size: 40px;
+line-height: 40px;
+}
+
+#div4, #div5{
+    display: flex;
+    justify-content: space-around;
+}
+
+#div4 > div{
+    box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+    font-size:large;
+    line-height: 30px;
+    padding: 35px;
+}
+
+.nomAuteur{
+    display: flex;
+}
+
+.noms{
+    margin: 15px;
+}
+
+.boutons{
+    padding: 4px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    background: #E4E4E4;
+    border-radius: 50%;
+}
+
+#div-btn{
+    text-align: center;
+}
+.boutons:hover{
+    background-color: #bbb5b5;
+}
+
+
+.paragr-div5{
+    font-weight: 200;
+    font-size: 19px;
+    line-height: 23px;
+    text-align: left;
+    color: #070606;
+}
+
+#pied-de-page{
+    background: #1F1F1F;
+    border-top-left-radius: 15%;
+    border-top-right-radius: 15%;
+    padding: 20px;
+    color: aliceblue;
+    margin-top: 110px;
+}
+
+figure{
+    margin-bottom: 35px;
+}
+
+figcaption{
+font-size: 25px;
+margin-top: -80px;
+color: aqua;
+}
+
+
+hr{
+
+    margin-top: 60px;
+    border: 1px solid #832e2e;
+    
+}
+
+#hr{
+    border: 1px solid #f8e6e6;
+}
+
+#btn4{
+    margin: 1.5%;
+}
+
+nav, #div-des-lien, #div-lienRS{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+.lien,.lienRS{
+    padding: 13px;
+    font-weight: 900px;
+    font-size: 13.8px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 0.04em;
+}
+div#Mobile {
+    margin: 90px;
+}
+img.image {
+    width: 250px;
+    margin-top: 33px;
+    }

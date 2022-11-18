@@ -1,0 +1,37 @@
+@media screen and (max-width: 800px){
+    #background{
+        height: 120vh;
+    }
+    img#image2 {
+        width: 100px;
+    }
+    #beema {
+        font-size: 25px;
+    margin-top: 25px;
+    margin-left: -2px;
+    }
+    img#image2 {
+        width: 91px;
+    }
+    button#btn1 {
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+    div#p2 {
+        /* font-size: 29px; */
+        margin-top: 22px;
+    }
+    #p1 {
+        margin-top: 85px;
+        margin-bottom: 66px;
+    }
+    .titre {
+        margin: 33px;
+        font-weight: 900px;
+        font-size: 30px;
+        /* line-height: 40px; */
+    }
+    img.image {
+        width: 300px;
+        }
+}
